@@ -1,4 +1,4 @@
-# waypoint
+# Waypoint
 
 AR/VR
 
